@@ -1,0 +1,23 @@
+.encabezado{
+    text-align: center;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #9378E3;
+}
+
+img{
+    max-width: 30%;
+    min-width: 10%;
+}
+.footer{
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
+.main p{
+    text-align: justify;
+}
+
